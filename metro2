@@ -1,0 +1,13 @@
+metro2-dispute-app/
+├── README.md
+├── package.json
+├── backend/
+│   ├── server.js
+│   └── routes/
+│       ├── enroll-client.js
+│       ├── create-payment-intent.js
+│       ├── generate-and-mail.js
+│       ├── fico-score.js
+│       └── admin-clients.js
+└── frontend/
+    └── Metro2DisputePortal.jsx
